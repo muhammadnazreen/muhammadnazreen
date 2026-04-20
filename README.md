@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi, there 👋
 
-Full-stack developer building clean, thoughtful software. Interested in web performance, developer tooling, and the occasional mobile project.
+Software developer building clean, thoughtful application. Interested in web design, developer tooling, and the occasional mobile project.
 
 ---
 
