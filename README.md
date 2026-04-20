@@ -20,7 +20,7 @@ Full-stack developer building clean, thoughtful software. Interested in web perf
 
 **Tech stack**
 
-`Flutter` `Kotlin` `TypeScript` `React` `PHP` `Android`
+`Flutter` `C#` `Assembly` `React Native` `PHP` `Android`
 
 ---
 
@@ -34,4 +34,4 @@ Full-stack developer building clean, thoughtful software. Interested in web perf
 
 **Connect**
 
-[LinkedIn](https://github.com/muhammadnazreen) · [yoursite.dev](https://yoursite.dev) · [nazreenmubin00@email.com](mailto:nazreenmubin00@email.com)
+[LinkedIn](https://github.com/muhammadnazreen) <!--· [upcoming](https://nosite.com)--> · [nazreenmubin00@email.com](mailto:nazreenmubin00@email.com)
