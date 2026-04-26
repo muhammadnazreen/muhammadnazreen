@@ -29,6 +29,7 @@ Software developer building clean, thoughtful application. Interested in web des
 - [**smartprayer**](https://github.com/muhammadnazreen/smartprayer) — Flutter Android app. Online-first with Firebase and background sync. `Flutter`
 - [**asm-sch-proj**](https://github.com/muhammadnazreen/asm-sch-proj) — A Fun Card Game. Implement macros and randomize. `Assembly` 
 - [**pizza-php**](https://github.com/muhammadnazreen/pizza-php) — A full-stack web app with authentication, security measurement, real-time updates, and a clean REST API layer. `PHP`
+- [**payroll-management-system-php**](https://github.com/muhammadnazreen/payroll-management-system-laravel) — A full-stack web app with authentication using Laravel framework and Blade. `PHP`
 
 ---
 
